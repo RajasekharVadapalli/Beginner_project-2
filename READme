@@ -1,0 +1,12 @@
+# This READme conatains steps to create, tag docker image and running it locally.
+# This sample image is to print the given instructions by using echo command.
+# Please find linux commands file here https://drive.google.com/drive/folders/1FgPAs5pSq7zXcWwWlBTq4OXQrgCR3X-l?usp=sharing
+
+* Create a Docker image file by using command [touch]
+* Use nano or touch command to open the created docker file.
+* Add the commands listed in the file attached to this repo.
+* Use [docker build and tag <image> <newName>/<repoName>:<tagName>] 
+* Use [docker images] command to list the repositories and select the image which is intended to run.
+* Use [docker run] command and paste the image details to run it.
+
+

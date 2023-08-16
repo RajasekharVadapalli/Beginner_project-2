@@ -2,6 +2,8 @@
 # This sample image is to print the given instructions by using echo command.
 # Please find linux commands file here https://drive.google.com/drive/folders/1FgPAs5pSq7zXcWwWlBTq4OXQrgCR3X-l?usp=sharing
 
+# Instructions
+
 * Create a Docker image file by using command [touch]
 * Use nano or touch command to open the created docker file.
 * Add the commands listed in the file attached to this repo.
